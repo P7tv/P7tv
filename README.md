@@ -1,21 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=170&section=header&text=P7tv&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=AI%2C%20Computer%20Vision%20%26%20Full-Stack%20Developer&descSize=16&descAlignY=58&animation=fadeIn" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:A5B4FC,100:FBCFE8&height=160&section=header&text=P7tv&fontSize=42&fontColor=1E293B&fontAlignY=42&desc=AI%2C%20Computer%20Vision%20%26%20Full-Stack%20Developer&descSize=15&descAlignY=64&animation=fadeIn" alt="Soft Header Banner" />
+
+<br />
 
 <a href="https://github.com/P7tv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Building+AI+Agents+%26+LLM+Workflows;Computer+Vision+%26+Data+Pipelines;Full-Stack+Web+%26+Native+Swift+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1200&color=A5B4FC&center=true&vCenter=true&width=520&lines=Building+AI+Agents+%26+LLM+Workflows;Computer+Vision+%26+Data+Pipelines;Full-Stack+Web+%26+Native+Swift+Apps" alt="Typing SVG" />
 </a>
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-P7tv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P7tv)
-[![Profile Views](https://komarev.com/ghpvc/?username=P7tv&color=1F6FEB&style=for-the-badge&label=VIEWS)](https://github.com/P7tv)
+[![GitHub](https://img.shields.io/badge/GitHub-P7tv-A5B4FC?style=for-the-badge&logo=github&logoColor=1E293B)](https://github.com/P7tv)
+[![Profile Views](https://komarev.com/ghpvc/?username=P7tv&color=F9A8D4&style=for-the-badge&label=VIEWS)](https://github.com/P7tv)
 
 </div>
 
 ---
 
-### ✨ About Me
+### 🌸 About Me
 
 - 🤖 **AI & Agents:** Experimenting with LLM workflows, autonomous agents, and NER pipelines
 - 👁️ **Computer Vision:** Building visual analysis and tracking systems in Python
@@ -24,7 +26,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🧩 Tech Stack
 
 <div align="center">
 
@@ -36,7 +38,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### ✨ Featured Projects
 
 <table>
   <tr>
@@ -79,7 +81,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Analytics
 
 <div align="center">
 
@@ -92,12 +94,12 @@
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=P7tv&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=P7tv&hide_border=true&background=00000000&ring=A5B4FC&fire=F9A8D4&currStreakLabel=A5B4FC&sideLabels=94A3B8&currStreakNum=94A3B8&sideNums=94A3B8&dates=94A3B8" alt="GitHub Streak" />
 
 <br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=P7tv&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=F8FAFC&area=true" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=P7tv&hide_border=true&bg_color=00000000&color=94A3B8&line=A5B4FC&point=F9A8D4&area=true&area_color=A5B4FC" alt="Contribution Graph" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=90&section=footer" alt="Footer Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:A5B4FC,100:FBCFE8&height=80&section=footer" alt="Soft Footer Banner" />
